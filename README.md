@@ -1,7 +1,7 @@
 # CSC443 Lab Exercises
 Repository for CSC443 lab exercises. Preview of the [public folder](public/) available on https://webdev.alzhahir.com
 
-# Directories
+## Directories
 <pre>
 <a href="https://webdev.alzhahir.com">public/index.html</a>
 &nbsp;&nbsp;&nbsp;| <a href="https://webdev.alzhahir.com/serverinfo.php">serverinfo.php</a>
@@ -18,5 +18,5 @@ Repository for CSC443 lab exercises. Preview of the [public folder](public/) ava
 </pre>
 
 
-# Contributions
+## Contributions
 This repository is not accepting any form of contributions.
