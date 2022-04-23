@@ -6,15 +6,15 @@ Repository for CSC443 lab exercises. Preview of the [public folder](public/) ava
 <a href="https://webdev.alzhahir.com">public/index.html</a>
 &nbsp;&nbsp;&nbsp;| <a href="https://webdev.alzhahir.com/serverinfo.php">serverinfo.php</a>
 &nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3">lab3</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/serverinfo.php">casting.php</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/serverinfo.php">comment.php</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/serverinfo.php">first.php</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/serverinfo.php">for.php</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/serverinfo.php">formatting.php</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/serverinfo.php">function.php</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/serverinfo.php">output.php</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/serverinfo.php">string.php</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/serverinfo.php">variable.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/casting.php">casting.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/comment.php">comment.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/first.php">first.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com//lab3/for.php">for.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/formatting.php">formatting.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/function.php">function.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/output.php">output.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/string.php">string.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/variable.php">variable.php</a>
 </pre>
 
 
