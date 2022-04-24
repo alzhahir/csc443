@@ -3,8 +3,9 @@ Repository for CSC443 lab exercises. Preview of the [public folder](public/) ava
 
 ## Directories
 <pre>
-<a href="https://webdev.alzhahir.com">public/index.html</a>
-&nbsp;&nbsp;&nbsp;| <a href="https://webdev.alzhahir.com/serverinfo.php">serverinfo.php</a>
+<a href="public/">public</a>
+&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/">index.html</a>
+&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/serverinfo.php">serverinfo.php</a>
 &nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3">lab3</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/casting.php">casting.php</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/comment.php">comment.php</a>
@@ -15,6 +16,7 @@ Repository for CSC443 lab exercises. Preview of the [public folder](public/) ava
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/output.php">output.php</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/string.php">string.php</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/variable.php">variable.php</a>
+&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab4">lab4 (Currently unavailable)</a>
 </pre>
 
 
