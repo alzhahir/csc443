@@ -26,4 +26,4 @@ Repository for CSC443 lab exercises. Preview of the [public folder](public/) ava
 
 
 ## Contributions
-This repository is not accepting any form of contributions.
+This repository is not accepting any form of contributions. However, you may provide feedback by [contacting me](https://www.alzhahir.com/contact) or by [opening an issue](https://github.com/alzhahir/csc443/issues).
