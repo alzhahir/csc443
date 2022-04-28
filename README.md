@@ -16,7 +16,12 @@ Repository for CSC443 lab exercises. Preview of the [public folder](public/) ava
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/output.php">output.php</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/string.php">string.php</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/variable.php">variable.php</a>
-&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab4">lab4 (Currently unavailable)</a>
+&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab4">lab4</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab4/form.html">form.html</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab4/handle_form.php">handle_form.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab4/calculator.html">calculator.html</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab4/handle_calculator.php">handle_calculator.php</a>
+&nbsp;&nbsp;&nbsp;+-- and so on...
 </pre>
 
 
