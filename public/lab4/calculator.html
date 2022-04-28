@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Cost Calculator</title>
+    </head>
+    <body>
+        <form action="handle_calculator.php?source=calculator.html" method="post">
+            <select name="quantity">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+            </select>
+            <div>
+                <input type="submit" name="submit" value="Total!">
+            </div>
+            <input type="hidden" name="price" value="19.95">
+            <input type="hidden" name="taxrate" value=".05">
+        </form>
+    </body>
+</html>
