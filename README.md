@@ -24,7 +24,7 @@ Repository for CSC443 lab exercises. Preview of the [public folder](public/) ava
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab4/mainpage.html">mainpage.html</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab4/secondpage.php">secondpage.php</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab4/header.inc">header.inc</a>
-&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab5">lab5</a><br>
+&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab5">lab5</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab5/indexedArray.php">indexedArray.php</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab5/assocArray.php">assocArray.php</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab5/exercise.php">exercise.php</a>
