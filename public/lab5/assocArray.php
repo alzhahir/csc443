@@ -15,7 +15,9 @@
                                 'November' => 30, 'December' => 31);
             echo "<table border='1'><tr><th>Month</th><th>Days</th></tr>";
             foreach($monthDays as $x => $xval){
-                echo "<tr><td>".$x."</td><td>".$xval."</td></tr>";
+                if($xval == 30){
+                    echo "<tr><td>".$x."</td><td>".$xval."</td></tr>";
+                }
             }
             echo "</table>";
         ?>
