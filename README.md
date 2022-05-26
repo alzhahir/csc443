@@ -5,7 +5,6 @@ Repository for CSC443 lab exercises. Preview of the [public folder](public/) ava
 <pre>
 <a href="public/">public</a>
 &nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/">index.html</a>
-&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/serverinfo.php">serverinfo.php</a>
 &nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3">lab3</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/casting.php">casting.php</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab3/comment.php">comment.php</a>
