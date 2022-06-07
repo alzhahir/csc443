@@ -27,6 +27,12 @@ Repository for CSC443 lab exercises. Preview of the [public folder](public/) ava
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab5/indexedArray.php">indexedArray.php</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab5/assocArray.php">assocArray.php</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab5/exercise.php">exercise.php</a>
+&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab8mysqli">lab8mysqli</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab8mysqli/add_user.php">add_user.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab8mysqli/con_db.php">con_db.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab8mysqli/conn.php">conn.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab8mysqli/display_table.php">display_table.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab8mysqli/get_info.php">get_info.php</a>
 &nbsp;&nbsp;&nbsp;+-- and so on...
 </pre>
 
