@@ -5,7 +5,7 @@
     if(!empty($_POST["password"])) {
         $password = test_input($_POST["password"]);
         $cpassword = test_input($_POST["cpassword"]);
-        if (strlen($_POST["password"]) <= '6' && $_POST["password"] >= '8') {
+        if (strlen($_POST["password"]) < '6' && $_POST["password"] > '8') {
             $passwordErr = "Your password length must be between 6 and 8 characters!";
             die("Your password length must be between 6 and 8 characters!");
             header("refresh:2; url=get_info.php");
