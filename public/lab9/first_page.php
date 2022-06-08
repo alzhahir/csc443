@@ -5,7 +5,7 @@
     $_SESSION["myLogin"] = "myWebsite";
     echo "A value saved in the session named as myLogin.<br>";
     
-    $_SESSION["myLogin"] = "Blue";
+    $_SESSION["myColor"] = "Blue";
     echo "A value saved in the session named as myColor.<br>";
 
     echo "Click <a href=next_page.php>Next Page</a>"
