@@ -33,6 +33,12 @@ Repository for CSC443 lab exercises. Preview of the [public folder](public/) ava
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab8mysqli/conn.php">conn.php</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab8mysqli/display_table.php">display_table.php</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab8mysqli/get_info.php">get_info.php</a>
+&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab9">lab9</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab9/first_page.php">first_page.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab9/next_page.php">next_page.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab9/removing_cookies.php">removing_cookies.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab9/setting_persistent_cookies.php">setting_persistent_cookies.php</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;+-- <a href="https://webdev.alzhahir.com/lab9/setting_receiving_cookies.php">setting_receiving_cookies.php</a>
 &nbsp;&nbsp;&nbsp;+-- and so on...
 </pre>
 
